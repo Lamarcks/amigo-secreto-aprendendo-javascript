@@ -2,8 +2,6 @@
 
 # Jogo do Número Secreto
 
-### Projeto de lógica de programação com JavaScript
-
 Aplicação desenvolvida durante meus estudos na **Alura + Oracle Next Education (ONE)** para praticar fundamentos de lógica de programação utilizando JavaScript.
 
 <br>
