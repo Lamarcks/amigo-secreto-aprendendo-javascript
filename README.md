@@ -20,7 +20,9 @@ Aplicação desenvolvida durante meus estudos na **Alura + Oracle Next Education
 
 O **Jogo do Número Secreto** é uma aplicação simples desenvolvida para colocar em prática conceitos fundamentais de programação com **JavaScript**.
 
-O sistema gera aleatoriamente um número secreto dentro de um intervalo definido. O jogador informa seus palpites e recebe uma indicação se o número secreto é maior ou menor que o valor informado.
+O sistema gera aleatoriamente um número secreto dentro de um intervalo definido. 
+
+O jogador informa seus palpites e recebe uma indicação se o número secreto é maior ou menor que o valor informado.
 
 O jogo continua até que o jogador descubra o número correto.
 
@@ -224,14 +226,6 @@ O desenvolvimento deste projeto ajudou a consolidar conceitos que serviram como 
 
 ---
 
-## Status do projeto
-
-**Concluído**
-
-Projeto desenvolvido para fins de estudo e prática dos fundamentos de lógica de programação e JavaScript.
-
----
-
 ## Autor
 
 **Ihago Lamarcks**
@@ -246,6 +240,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em desenv
 
 **Projeto desenvolvido durante minha formação em tecnologia.**
 
-Oracle Next Education • Alura • JavaScript
+Oracle Next Education • Alura 
 
 </div>
